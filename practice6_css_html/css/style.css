@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h3 {
+    color: green;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 45px;
+}
+
+p {
+    color: blue;
+}
+
+.segunda_clase{
+    color: blueviolet;
+}
+
+.fondo {
+    background-color: goldenrod;
+    color: darkcyan;
+}
+
+span {
+    background-color: blueviolet;
+    color: antiquewhite;
+}
+
+.padre {
+    color: red;
+}
+
+section{
+    border: 1px solid red;
+    padding-bottom: 40px;
+}
+
+article{
+    background-color: aqua;
+}
