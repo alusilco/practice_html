@@ -56,6 +56,10 @@ Este repositorio contiene una serie de prácticas para aprender y dominar los co
     - **Descripción**: Explora y experimenta con las propiedades avanzadas de Flexbox que controlan cómo los elementos flexibles se dimensionan y se ajustan en un contenedor.
     - **Objetivo**: Dominar las propiedades `flex-shrink`, `flex-basis`, y `flex-grow` para controlar el comportamiento de los elementos flexibles y crear diseños más adaptativos y dinámicos.
 
+12. **Maquetación de una Web con CSS Grid**
+    - **Descripción**: En este ejercicio, aplicarás los conceptos de CSS Grid para realizar la maquetación completa de una página web. Utilizarás las propiedades de CSS Grid para organizar el contenido en una estructura de cuadrícula que sea tanto flexible como responsiva.
+    - **Objetivo**: Aprender a utilizar CSS Grid para crear layouts complejos y adaptativos, comprendiendo cómo las áreas, las filas, las columnas, y las líneas de la cuadrícula pueden ser manipuladas para distribuir el contenido de manera eficiente en la página.
+
 
 ## Requisitos
 
@@ -76,5 +80,6 @@ Si deseas contribuir a estas prácticas, por favor, envía un pull request o abr
 ---
 
 ## ¡Disfruta aprendiendo HTML y CSS!
+                  Ana Lucía Silva Córdoba
 
 
