@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    height: 800px;
+    background-color: thistle;
+    justify-content:center;
+    /*align-items: center;*/
+    align-content: center;
+    flex-wrap: wrap;
+    column-gap: 1.5rem;
+    row-gap: 1rem;
+    /* flex-direction: column; */
+}
+
+div div {
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    font-size: xx-large;
+
+}
+
+.item1 {
+    background-color: yellowgreen;
+}
+
+.item2 {
+    background-color: wheat;
+}
+
+.item3 {
+    background-color: violet;
+}
+
+.item4 {
+    background-color: teal;
+}

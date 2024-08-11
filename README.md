@@ -48,6 +48,15 @@ Este repositorio contiene una serie de prácticas para aprender y dominar los co
    - **Descripción**: Incorporar fuentes externas desde servicios como Google Fonts y añadir imágenes como fondos en elementos HTML. (GoogleFonts: https://fonts.google.com/selection/embed)
    - **Objetivo**: Aprender a utilizar fuentes web externas para mejorar la tipografía y aplicar imágenes como fondos para enriquecer el diseño de las páginas web.
 
+10. **Propiedades Básicas de Flexbox: `align-items`, `justify-content`, `column-gap`, `flex-wrap`, y `flex-direction`**
+    - **Descripción**: Aprende a utilizar las propiedades esenciales de Flexbox para controlar la alineación, el espaciado, y la disposición de los elementos en un contenedor flexible.
+    - **Objetivo**: Comprender cómo `align-items`, `justify-content`, `column-gap`, `flex-wrap`, y `flex-direction` afectan el layout de los elementos dentro de un contenedor flexible.
+
+11. **Propiedades Avanzadas de Flexbox: `flex-shrink`, `flex-basis`, y `flex-grow`**
+    - **Descripción**: Explora y experimenta con las propiedades avanzadas de Flexbox que controlan cómo los elementos flexibles se dimensionan y se ajustan en un contenedor.
+    - **Objetivo**: Dominar las propiedades `flex-shrink`, `flex-basis`, y `flex-grow` para controlar el comportamiento de los elementos flexibles y crear diseños más adaptativos y dinámicos.
+
+
 ## Requisitos
 
 Para realizar estas prácticas, necesitarás:

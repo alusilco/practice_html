@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    height: 800px;
+    background-color: gainsboro;
+    column-gap: 1.5rem;
+   
+}
+
+div div {
+    /* width: 150px; */
+    height: 100px;
+    text-align: center;
+    font-size: xx-large;
+
+}
+
+.item1 {
+    flex-grow: 1;
+    background-color: pink;
+}
+
+.item2 {
+    background-color: orangered;
+}
+
+.item3 {
+    flex-grow: 1;
+    background-color: grey;
+}
+
+.item4 {
+    flex-grow: 1;
+    background-color: teal;
+}
+
+/* jugamos con flex grow, flex shrink y flex basis */
