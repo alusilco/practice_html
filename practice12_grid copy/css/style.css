@@ -65,3 +65,36 @@ body {
     grid-area: footer;
     background-color: hotpink;
 }
+
+@media screen and (max-width: 576px) {
+    
+    .grid-container {    
+        grid-template-columns: 1;
+        grid-template-rows: 50px 200px 0.5fr 0.5fr 0.5fr 100px 50px 100px;
+        grid-template-areas:
+        "nav nav nav nav" 
+        "main main main main" 
+        "article1 article1 article1 article1" 
+        "article3 article3 article3 article3" 
+        "article2 article2 article2 article2"
+        "gallery gallery gallery gallery"
+        "aside aside aside aside"
+        "footer footer footer footer";
+    }
+}
+
+@media screen and (min-width: 577px) and (max-width: 720px) {
+    
+    .grid-container {    
+        grid-template-columns: 2;
+        grid-template-rows: auto;
+        grid-template-areas:
+        "nav nav nav nav" 
+        "main main aside aside" 
+        "main main aside aside"
+        "article3 article3 article3 article3" 
+        "article2 article2 article1 article1" 
+        "gallery gallery gallery gallery"
+        "footer footer footer footer";
+    }
+}
