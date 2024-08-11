@@ -1,0 +1,36 @@
+* { 
+    margin: o;
+    padding: 0;
+}
+
+article {
+    margin: 2rem;
+    background-color: bisque;
+    padding: 2rem;
+    width: 50vw;
+}
+
+header{
+    width: 80%;
+    margin-bottom: 2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img{
+    float: right;
+    width: 35%;
+}
+
+p{
+    line-height: 1.5;
+    margin-bottom: 1rem;
+}
+
+.capital::first-letter {
+    font-size: 3rem;
+    color: azure;
+    background-color: black;
+    float: left;
+    border-radius: 2px;
+    margin-right: 5px;
+}

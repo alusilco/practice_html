@@ -36,6 +36,18 @@ Este repositorio contiene una serie de prácticas para aprender y dominar los co
    - **Descripción**: Combinación de HTML con CSS para estilizar y mejorar la apariencia de las páginas web.
    - **Objetivo**: Introducirte en el uso de CSS para aplicar estilos a elementos HTML, mejorar la presentación visual y la experiencia de usuario.
 
+7. **Herencia en CSS**
+   - **Descripción**: Explorar cómo los estilos se heredan de elementos padres a elementos hijos en CSS.
+   - **Objetivo**: Comprender el concepto de herencia en CSS y cómo aplicar estilos de manera eficiente utilizando propiedades heredables.
+
+8. **Precedencia de las Declaraciones**
+   - **Descripción**: Aprender sobre el orden y las reglas que determinan qué estilos se aplican cuando hay múltiples declaraciones en conflicto.
+   - **Objetivo**: Entender la especificidad, el orden en el documento y cómo afectan la aplicación final de los estilos.
+
+9. **Fuentes Externas e Imagen en el Fondo**
+   - **Descripción**: Incorporar fuentes externas desde servicios como Google Fonts y añadir imágenes como fondos en elementos HTML. (GoogleFonts: https://fonts.google.com/selection/embed)
+   - **Objetivo**: Aprender a utilizar fuentes web externas para mejorar la tipografía y aplicar imágenes como fondos para enriquecer el diseño de las páginas web.
+
 ## Requisitos
 
 Para realizar estas prácticas, necesitarás:
